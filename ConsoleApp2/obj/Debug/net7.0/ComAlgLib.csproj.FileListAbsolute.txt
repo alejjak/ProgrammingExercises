@@ -1,0 +1,14 @@
+C:\Users\alejj\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net7.0\ComAlgLib.exe
+C:\Users\alejj\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net7.0\ComAlgLib.deps.json
+C:\Users\alejj\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net7.0\ComAlgLib.runtimeconfig.json
+C:\Users\alejj\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net7.0\ComAlgLib.dll
+C:\Users\alejj\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\net7.0\ComAlgLib.pdb
+C:\Users\alejj\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ComAlgLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alejj\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ComAlgLib.AssemblyInfoInputs.cache
+C:\Users\alejj\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ComAlgLib.AssemblyInfo.cs
+C:\Users\alejj\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ComAlgLib.csproj.CoreCompileInputs.cache
+C:\Users\alejj\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ComAlgLib.dll
+C:\Users\alejj\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\refint\ComAlgLib.dll
+C:\Users\alejj\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ComAlgLib.pdb
+C:\Users\alejj\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ComAlgLib.genruntimeconfig.cache
+C:\Users\alejj\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\net7.0\ref\ComAlgLib.dll
