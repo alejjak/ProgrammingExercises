@@ -15,3 +15,10 @@
 /ConsoleApp2/obj/Release/net7.0/ComAlgLib.AssemblyInfoInputs.cache
 /ConsoleApp2/obj/Release/net7.0/ComAlgLib.assets.cache
 /ConsoleApp2/obj/Release/net7.0/ComAlgLib.GeneratedMSBuildEditorConfig.editorconfig
+/.vs/ComAlgLib/DesignTimeBuild
+/.vs/ComAlgLib/FileContentIndex
+/.vs
+/ConsoleApp2/bin/Debug/net7.0
+/ConsoleApp2/obj/Debug/net7.0
+/TestProject1/bin/Debug/net7.0
+/TestProject1/obj
